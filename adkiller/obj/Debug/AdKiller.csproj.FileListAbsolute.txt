@@ -1,0 +1,51 @@
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Debug\AdKiller.AdKillerMainForm.resources
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Debug\AdKiller.Properties.Resources.resources
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Debug\AdKiller.RadioStationForm.resources
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Debug\AdKiller.csproj.GenerateResource.Cache
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\alglibnet2.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\Data\Jingle\endJingleTrojka.mp3
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\Data\Jingle\endJingleTrojka48.mp3
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\Data\Jingle\startJingleTrojka.mp3
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\Data\Jingle\startJingleTrojka48.mp3
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\fmodex.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\adkiller.exe.config
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\adkiller.exe
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\adkiller.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\VisualStateManager.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Debug\VisualStateManager.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Debug\adkiller.exe
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Debug\adkiller.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\adkiller.exe.config
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\adkiller.exe
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\adkiller.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\alglibnet2.dll
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\Data\Jingle\endJingleTrojka.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\Data\Jingle\endJingleTrojka48.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\Data\Jingle\startJingleTrojka.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\Data\Jingle\startJingleTrojka48.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\fmodex.dll
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\adkiller.exe
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\adkiller.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\bin\Debug\VisualStateManager.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\AdKiller.csprojResolveAssemblyReference.cache
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\AdKiller.AdKillerMainForm.resources
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\AdKiller.Properties.Resources.resources
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\AdKiller.RadioStationForm.resources
+C:\Users\Bolec\Desktop\PRAKTYKI\adkiller v2\adkiller\adkiller\obj\Debug\AdKiller.csproj.GenerateResource.Cache
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\adkiller.exe.config
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\adkiller.exe
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\adkiller.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\alglibnet2.dll
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\Data\Jingle\endJingleTrojka.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\Data\Jingle\endJingleTrojka48.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\Data\Jingle\startJingleTrojka.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\Data\Jingle\startJingleTrojka48.mp3
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\fmodex.dll
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\adkiller.exe
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\adkiller.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Debug\VisualStateManager.pdb
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\AdKiller.csprojResolveAssemblyReference.cache
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\AdKiller.AdKillerMainForm.resources
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\AdKiller.Properties.Resources.resources
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\AdKiller.RadioStationForm.resources
+C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\obj\Debug\AdKiller.csproj.GenerateResource.Cache

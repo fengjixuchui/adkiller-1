@@ -1,0 +1,10 @@
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\adkiller.utils.test.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\adkiller.utils.test.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\adkiller.exe
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\VisualStateManager.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\alglibnet2.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\adkiller.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\bin\Release\VisualStateManager.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\obj\Release\AdKiller.utils.test.csprojResolveAssemblyReference.cache
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\obj\Release\adkiller.utils.test.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller.utils.test\obj\Release\adkiller.utils.test.pdb

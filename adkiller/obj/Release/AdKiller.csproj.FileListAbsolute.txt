@@ -1,0 +1,12 @@
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Release\adkiller.exe.config
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Release\adkiller.exe
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Release\adkiller.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Release\alglibnet2.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Release\VisualStateManager.dll
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\bin\Release\VisualStateManager.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Release\AdKiller.AdKillerMainForm.resources
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Release\AdKiller.Properties.Resources.resources
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Release\AdKiller.csproj.GenerateResource.Cache
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Release\adkiller.exe
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Release\adkiller.pdb
+C:\Users\kburdzinski\Documents\Visual Studio 2013\Projects\adkiller\adkiller\adkiller\obj\Release\AdKiller.csprojResolveAssemblyReference.cache

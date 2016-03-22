@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListName>Polskie radia</ListName>
+  <Stations>
+    <RadioStation>
+      <Name>Trójka</Name>
+      <ConnectionString>http://localhost:8080</ConnectionString>
+      <StartJinglePath>C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Release\Data\Jingle\startJingleTrojka48.mp3</StartJinglePath>
+      <EndJinglePath>C:\Users\Bolec\Desktop\PRAKTYKI\adkillerv2\adkiller\adkiller\bin\Release\Data\Jingle\endJingleTrojka48.mp3</EndJinglePath>
+    </RadioStation>
+  </Stations>
+</Configuration>
