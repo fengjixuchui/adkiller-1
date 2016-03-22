@@ -3,4 +3,4 @@ Aplication for killing (muting) the advertisement in internet radio stream. Its 
 
 UI is very poor. The radio station configuration is in Data/radiostations.xml. Start and end jingle is needed ( Can be obtained using audacity. Just remember to save it with proper frequency).
 
-Pretty old code ( from 2014 ) which I don't plan to clean. Feel free to use :)
+Pretty old code ( from 2014 ) which I don't plan to clean/update. Feel free to use :)
